@@ -340,5 +340,3 @@ ASALocalRun/
 healthchecksdb
 
 # Custom Ignore: Uploads Folder
-GitExample/Uploads/*
-!.gitkeep
